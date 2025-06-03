@@ -18,3 +18,11 @@ body {
   font-style: normal;
   font-variation-settings: "wght" 400;
 }
+
+.search-form-input {
+  background-color: #f9f7fe;
+  border: none;
+  border-radius: 6px;
+  width: 80%;
+  padding: 20px;
+}
