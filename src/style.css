@@ -11,6 +11,15 @@ body {
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
 }
 
+a {
+  text-decoration: none;
+  color: #885df1;
+}
+header {
+  border-bottom: 1px solid #f9f7fe;
+  padding: 0 0 30px 0;
+}
+
 .roboto-headline {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
@@ -35,4 +44,11 @@ body {
   margin-left: 5px;
   border-radius: 6px;
   color: white;
+}
+footer {
+  border-top: 1px solid #f9f7fe;
+  padding: 30px 0 0 0;
+  text-align: center;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
 }
